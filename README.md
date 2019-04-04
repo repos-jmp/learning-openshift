@@ -1,4 +1,4 @@
-`###### **:Steps:**
+**:Steps:**
                                               
 Create a OpenShift free tier account.
 
